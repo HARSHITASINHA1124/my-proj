@@ -10,4 +10,6 @@ git push
 
 --> Level-2 (Branching, Merging)
 
+ 1. to show current branch --> git branch (name with *)
+ 2. to add new branch --> git branch new-bran ,  git checkout new-bran
  
